@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "timestamp": "20260707_135413",
+    "elephants_count": 4,
+    "image_path": "static\\result_20260707_135413.jpg",
+    "detected_objects": [
+      {
+        "class": "elephant",
+        "confidence": 0.9482,
+        "bbox": [
+          50,
+          238,
+          362,
+          524
+        ]
+      },
+      {
+        "class": "elephant",
+        "confidence": 0.901,
+        "bbox": [
+          345,
+          103,
+          679,
+          520
+        ]
+      },
+      {
+        "class": "elephant",
+        "confidence": 0.8513,
+        "bbox": [
+          472,
+          319,
+          681,
+          521
+        ]
+      },
+      {
+        "class": "elephant",
+        "confidence": 0.7777,
+        "bbox": [
+          51,
+          81,
+          422,
+          369
+        ]
+      }
+    ],
+    "processing_time_sec": 1.301,
+    "image_resolution": "736x552",
+    "avg_confidence": 0.8695
+  }
+]

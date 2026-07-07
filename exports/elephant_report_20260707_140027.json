@@ -1,0 +1,257 @@
+[
+  {
+    "id": 6,
+    "timestamp": "20260707_135940",
+    "elephants_count": 3,
+    "image_path": "static\\result_20260707_135940.jpg",
+    "detected_objects": [
+      {
+        "class": "elephant",
+        "confidence": 0.9502,
+        "bbox": [
+          72,
+          91,
+          254,
+          322
+        ]
+      },
+      {
+        "class": "elephant",
+        "confidence": 0.9426,
+        "bbox": [
+          347,
+          34,
+          543,
+          317
+        ]
+      },
+      {
+        "class": "elephant",
+        "confidence": 0.9042,
+        "bbox": [
+          258,
+          164,
+          370,
+          333
+        ]
+      }
+    ],
+    "processing_time_sec": 0.063,
+    "image_resolution": "612x408",
+    "avg_confidence": 0.9323
+  },
+  {
+    "id": 5,
+    "timestamp": "20260707_135931",
+    "elephants_count": 4,
+    "image_path": "static\\result_20260707_135931.jpg",
+    "detected_objects": [
+      {
+        "class": "elephant",
+        "confidence": 0.8697,
+        "bbox": [
+          138,
+          71,
+          388,
+          306
+        ]
+      },
+      {
+        "class": "elephant",
+        "confidence": 0.8675,
+        "bbox": [
+          302,
+          199,
+          413,
+          310
+        ]
+      },
+      {
+        "class": "elephant",
+        "confidence": 0.8555,
+        "bbox": [
+          82,
+          172,
+          230,
+          302
+        ]
+      },
+      {
+        "class": "elephant",
+        "confidence": 0.6437,
+        "bbox": [
+          169,
+          221,
+          265,
+          314
+        ]
+      }
+    ],
+    "processing_time_sec": 0.062,
+    "image_resolution": "525x350",
+    "avg_confidence": 0.8091
+  },
+  {
+    "id": 4,
+    "timestamp": "20260707_135920",
+    "elephants_count": 5,
+    "image_path": "static\\result_20260707_135920.jpg",
+    "detected_objects": [
+      {
+        "class": "elephant",
+        "confidence": 0.9186,
+        "bbox": [
+          276,
+          266,
+          375,
+          407
+        ]
+      },
+      {
+        "class": "elephant",
+        "confidence": 0.887,
+        "bbox": [
+          39,
+          111,
+          235,
+          431
+        ]
+      },
+      {
+        "class": "elephant",
+        "confidence": 0.8602,
+        "bbox": [
+          392,
+          109,
+          629,
+          440
+        ]
+      },
+      {
+        "class": "elephant",
+        "confidence": 0.8087,
+        "bbox": [
+          188,
+          176,
+          287,
+          414
+        ]
+      },
+      {
+        "class": "elephant",
+        "confidence": 0.754,
+        "bbox": [
+          275,
+          48,
+          647,
+          422
+        ]
+      }
+    ],
+    "processing_time_sec": 0.063,
+    "image_resolution": "681x451",
+    "avg_confidence": 0.8457
+  },
+  {
+    "id": 3,
+    "timestamp": "20260707_135906",
+    "elephants_count": 3,
+    "image_path": "static\\result_20260707_135906.jpg",
+    "detected_objects": [
+      {
+        "class": "elephant",
+        "confidence": 0.9362,
+        "bbox": [
+          42,
+          17,
+          206,
+          309
+        ]
+      },
+      {
+        "class": "elephant",
+        "confidence": 0.8587,
+        "bbox": [
+          172,
+          115,
+          347,
+          350
+        ]
+      },
+      {
+        "class": "elephant",
+        "confidence": 0.8531,
+        "bbox": [
+          274,
+          73,
+          448,
+          332
+        ]
+      }
+    ],
+    "processing_time_sec": 0.072,
+    "image_resolution": "547x365",
+    "avg_confidence": 0.8826
+  },
+  {
+    "id": 2,
+    "timestamp": "20260707_135837",
+    "elephants_count": 0,
+    "image_path": "static\\result_20260707_135837.jpg",
+    "detected_objects": [],
+    "processing_time_sec": 0.077,
+    "image_resolution": "500x496",
+    "avg_confidence": 0.0
+  },
+  {
+    "id": 1,
+    "timestamp": "20260707_135413",
+    "elephants_count": 4,
+    "image_path": "static\\result_20260707_135413.jpg",
+    "detected_objects": [
+      {
+        "class": "elephant",
+        "confidence": 0.9482,
+        "bbox": [
+          50,
+          238,
+          362,
+          524
+        ]
+      },
+      {
+        "class": "elephant",
+        "confidence": 0.901,
+        "bbox": [
+          345,
+          103,
+          679,
+          520
+        ]
+      },
+      {
+        "class": "elephant",
+        "confidence": 0.8513,
+        "bbox": [
+          472,
+          319,
+          681,
+          521
+        ]
+      },
+      {
+        "class": "elephant",
+        "confidence": 0.7777,
+        "bbox": [
+          51,
+          81,
+          422,
+          369
+        ]
+      }
+    ],
+    "processing_time_sec": 1.301,
+    "image_resolution": "736x552",
+    "avg_confidence": 0.8695
+  }
+]
